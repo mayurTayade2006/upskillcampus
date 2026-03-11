@@ -32,7 +32,8 @@ class BankAccount {
     }
 }
 
-public class {
+public class BankingInformationSystem 
+{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -86,4 +87,5 @@ public class {
 
         } while(choice != 4);
     }
+
 }
